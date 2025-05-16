@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="remove_from_watchlist">Remove from watchlist</string>
+</resources>
